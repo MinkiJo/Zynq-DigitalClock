@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/bin2seg.v" \
+"../../../../DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/clk_divder.v" \
+"../../../../DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/digital_clock.v" \
+"../../../../DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/seven_seg.v" \
+"../../../../DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/textlcd.v" \
+"../../../../DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/top.v" \
+"../../../../DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/tb_top.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

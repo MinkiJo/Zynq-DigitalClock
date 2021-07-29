@@ -1,0 +1,20 @@
+16:48:38 INFO  : Registering command handlers for SDK TCF services
+16:48:40 INFO  : Launching XSCT server: xsct.bat -interactive C:\Zynq7000\TextLCD_SoC\TextLCD_SoC.sdk\temp_xsdb_launch_script.tcl
+16:48:45 INFO  : XSCT server has started successfully.
+16:48:49 INFO  : Successfully done setting XSCT server connection channel  
+16:48:49 INFO  : Successfully done setting SDK workspace  
+16:48:49 INFO  : Processing command line option -hwspec C:/Zynq7000/TextLCD_SoC/TextLCD_SoC.sdk/system_wrapper.hdf.
+16:52:31 INFO  : Saving repository preferences.
+16:52:31 INFO  : Reading in cores from local repositories: 
+		 C:\Zynq7000\ip_repo
+16:52:31 INFO  : Cleaning BSP projects in the workspace.
+16:54:10 INFO  : No changes in MSS file content so not generating sources.
+00:54:07 INFO  : Registering command handlers for SDK TCF services
+00:54:09 INFO  : Launching XSCT server: xsct.bat -interactive C:\Zynq7000\TextLCD_SoC\TextLCD_SoC.sdk\temp_xsdb_launch_script.tcl
+00:54:14 INFO  : XSCT server has started successfully.
+00:54:14 INFO  : Successfully done setting XSCT server connection channel  
+00:54:17 INFO  : Successfully done setting SDK workspace  
+00:54:17 INFO  : Restoring local repository preferences: 
+		 C:\Zynq7000\ip_repo
+00:54:18 INFO  : Processing command line option -hwspec C:/Zynq7000/TextLCD_SoC/TextLCD_SoC.sdk/system_wrapper.hdf.
+00:54:18 INFO  : Checking for hwspec changes in the project system_wrapper_hw_platform_0.

@@ -1,0 +1,12 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/bin2seg.v,1619887506,verilog,,C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/clk_divder.v,,bin2seg,,,,,,,,
+C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/clk_divder.v,1619883740,verilog,,C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/digital_clock.v,,clk_divider,,,,,,,,
+C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/digital_clock.v,1619887231,verilog,,C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/seven_seg.v,,digital_clock,,,,,,,,
+C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/seven_seg.v,1619888210,verilog,,C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/textlcd.v,,seven_seg,,,,,,,,
+C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/tb_top.v,1619883740,verilog,,,,tb_top,,,,,,,,
+C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/textlcd.v,1619888267,verilog,,C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/top.v,,textlcd,,,,,,,,
+C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/top.v,1619938851,verilog,,C:/Zynq7000/DigitalClock_FPGA/DigitalClock_FPGA.srcs/sources_1/imports/Zynq7000/tb_top.v,,top,,,,,,,,
